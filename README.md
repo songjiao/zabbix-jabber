@@ -17,5 +17,7 @@ Zabbix jabber报警脚本
     将send_client.py、send_kwai.sh放到AlertScriptsPath并添加可执行权限
     需要在环境变量里设置ALARM_PWD=“alarm@test.com的密码"
 
-##在zabbix WEB页面配置自定义脚本报警
+##三、在zabbix WEB页面配置自定义脚本报警
+
+##四、下载手机客户端Xabber(android),Talkonaut(ios)
 
